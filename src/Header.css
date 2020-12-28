@@ -1,0 +1,28 @@
+.header{
+    display: flex;
+}
+
+.header__heading{
+    align-self: center;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    flex: 0.5;
+}
+
+.header__btns>button{
+    align-self: center;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    border: none;
+    margin: 5px;
+}
+.header__btns{
+    flex: 0.5;
+    margin: 5px;
+}
+
+.header__h{
+    align-self: center;
+}

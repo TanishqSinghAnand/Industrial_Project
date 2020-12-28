@@ -1,0 +1,32 @@
+.main {
+  display: flex;
+  padding: 0;
+}
+
+.main__info {
+  flex: 0.7;
+  align-content: center;
+  align-self: center;
+  align-items: center;
+  justify-content: center;
+}
+
+.main__form {
+  flex: 0.3;
+}
+.alignment > img {
+  flex: 1;
+  width: 384px;
+  height: 216.2px;
+}
+
+.alignment {
+  flex: 1;
+  margin: auto;
+  width: auto;
+    align-content: center;
+  align-self: center;
+  align-items: center;
+  justify-content: center;
+  padding: 50px;
+}
